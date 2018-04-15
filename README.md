@@ -5,6 +5,7 @@ A python script which will generate packages.config file of locally installed [c
 
 ## Requirements
 python 3
+chocolatey
 
 ## Running
 ```
